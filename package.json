@@ -1,0 +1,20 @@
+{
+  "name": "calamano",
+  "engines": {
+    "node": ">=5.6.0"
+  },
+  "version": "1.0.0",
+  "description": "skype bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "skype-sdk": "file:skype-sdk.tar.gz"
+  },
+  "devDependencies": {
+    "restify": "^4.0.4"
+  }
+}
